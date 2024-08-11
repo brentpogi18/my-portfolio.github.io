@@ -1,0 +1,33 @@
+.navbar {
+    background-color: #F7F7F9; 
+}
+
+.nav-link {
+    font-size: 25px;
+    font-weight: 500;
+}
+
+ul {
+    align-items: center;
+}
+
+.nav-link:hover {
+    color: #dd1111;
+}
+
+.hero-section {
+    color: #fcfbff;
+    background-color: #242423;
+}
+
+.head-section{
+    background-color: rgb(163, 166, 177); 
+}
+
+.img-thumbnail {
+    width: 50px;
+}
+
+.footer-section {
+    background-color: #F7F7F9; 
+}
